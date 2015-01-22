@@ -1,0 +1,12 @@
+c:\users\ypci-win8\documents\visual studio 2012\Projects\QRCodeSitemap\QRCodeSitemap\bin\Debug\QRCodeSitemap.exe.config
+c:\users\ypci-win8\documents\visual studio 2012\Projects\QRCodeSitemap\QRCodeSitemap\bin\Debug\QRCodeSitemap.exe
+c:\users\ypci-win8\documents\visual studio 2012\Projects\QRCodeSitemap\QRCodeSitemap\bin\Debug\QRCodeSitemap.pdb
+c:\users\ypci-win8\documents\visual studio 2012\Projects\QRCodeSitemap\QRCodeSitemap\bin\Debug\Gma.QrCodeNet.Encoding.Net45.dll
+c:\users\ypci-win8\documents\visual studio 2012\Projects\QRCodeSitemap\QRCodeSitemap\bin\Debug\Gma.QrCodeNet.Encoding.Net45.pdb
+c:\users\ypci-win8\documents\visual studio 2012\Projects\QRCodeSitemap\QRCodeSitemap\bin\Debug\Gma.QrCodeNet.Encoding.Net45.xml
+c:\users\ypci-win8\documents\visual studio 2012\Projects\QRCodeSitemap\QRCodeSitemap\obj\Debug\QRCodeSitemap.csprojResolveAssemblyReference.cache
+c:\users\ypci-win8\documents\visual studio 2012\Projects\QRCodeSitemap\QRCodeSitemap\obj\Debug\QRCodeSitemap.Form1.resources
+c:\users\ypci-win8\documents\visual studio 2012\Projects\QRCodeSitemap\QRCodeSitemap\obj\Debug\QRCodeSitemap.Properties.Resources.resources
+c:\users\ypci-win8\documents\visual studio 2012\Projects\QRCodeSitemap\QRCodeSitemap\obj\Debug\QRCodeSitemap.csproj.GenerateResource.Cache
+c:\users\ypci-win8\documents\visual studio 2012\Projects\QRCodeSitemap\QRCodeSitemap\obj\Debug\QRCodeSitemap.exe
+c:\users\ypci-win8\documents\visual studio 2012\Projects\QRCodeSitemap\QRCodeSitemap\obj\Debug\QRCodeSitemap.pdb
